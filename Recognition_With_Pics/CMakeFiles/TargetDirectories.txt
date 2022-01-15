@@ -1,0 +1,3 @@
+/home/austin/Jetson-TX2-tutorial/Recognition_With_Pics/CMakeFiles/rebuild_cache.dir
+/home/austin/Jetson-TX2-tutorial/Recognition_With_Pics/CMakeFiles/my-recognition.dir
+/home/austin/Jetson-TX2-tutorial/Recognition_With_Pics/CMakeFiles/edit_cache.dir
